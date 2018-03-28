@@ -9,6 +9,6 @@ autoconf.h
 /u-boot
 /u-boot.map
 /u-boot.srec
-#/uboot.bin
-#/uboot.img
+/uboot.bin
+/uboot.img
 /uboot_128k.bin
